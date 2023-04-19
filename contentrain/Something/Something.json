@@ -2,7 +2,15 @@
   {
     "ID": "e63e0de3-2528-4e10-8729-d32321c40cfb",
     "logo": "",
-    "menu": [],
+    "menu": [
+      {
+        "ID": "9a606f94-b933-4ba3-84e6-58695039f858",
+        "label": "aa",
+        "url": "http://example.com",
+        "submenu": [],
+        "createdAt": 1681931368757
+      }
+    ],
     "cta": [],
     "title": "ssss",
     "createdAt": 1681931295512
