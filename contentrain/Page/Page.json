@@ -4,7 +4,11 @@
     "key": "NCSP_INGESTION",
     "templateName": "TWO_COLUMN",
     "globalKey": "NCSP",
-    "sectionList": "",
-    "createdAt": 1681930546784
+    "sectionList": [
+      "0f01f24d-deed-4381-bad5-c83d72a0fc88",
+      "7f7489bf-67ad-4737-8869-37103455b3d8"
+    ],
+    "createdAt": 1681930546784,
+    "updatedAt": 1681930709167
   }
 ]
