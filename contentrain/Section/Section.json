@@ -1,0 +1,12 @@
+[
+  {
+    "ID": "0f01f24d-deed-4381-bad5-c83d72a0fc88",
+    "key": "personalInformation",
+    "globalKey": "NCSP",
+    "displayText": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(51, 55, 64);\">The personal information you enter in this section, such as your name, address, date of birth, birth location, and Social Security number will be used as a part of your application for communication of program information and updates, and verification of documentation.</span></p>",
+    "display": true,
+    "order": "1",
+    "extendedAttributes": [],
+    "createdAt": 1681930601919
+  }
+]
