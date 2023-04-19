@@ -8,5 +8,15 @@
     "order": "1",
     "extendedAttributes": [],
     "createdAt": 1681930601919
+  },
+  {
+    "ID": "7f7489bf-67ad-4737-8869-37103455b3d8",
+    "key": "eligibility",
+    "globalKey": "NCSP",
+    "displayText": "<p>This is Eligibility section.</p>",
+    "display": true,
+    "order": "2",
+    "extendedAttributes": [],
+    "createdAt": 1681930625247
   }
 ]
